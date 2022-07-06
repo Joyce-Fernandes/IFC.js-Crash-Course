@@ -1,0 +1,19 @@
+@keyframes animate1{
+    25%{
+        transform: rotate(90deg);
+    }
+    50%{
+        transform: rotate(180deg);
+    }
+    75%{
+        transform: rotate(270deg);
+    }
+}
+
+.icon-img{
+    width: 200px;
+    height: 200px;
+    animation: animate1 8s forwards ease-in-out;
+    animation-iteration-count: infinite;
+}
+

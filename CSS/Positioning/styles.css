@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    overflow: hidden;
+}
+
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+input {
+    visibility: collapse;
+}
+
+button {
+    z-index: 1;
+    position: absolute;
+    margin: 0.5rem;
+    padding: 0.3rem;
+    background-color: white;
+    border: 1px solid gray;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+.docs-link {
+    z-index: 1;
+    position: absolute;
+    right: 0;
+    margin: 0.5rem;
+    padding: 0.3rem;
+    text-decoration: none;
+    color: black;
+    border: 1px solid gray;
+}
