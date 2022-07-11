@@ -2,6 +2,6 @@
 
 #### 📝 Exercises of the IFC.js crash course.
 
-#
-<img width="80%" align="center" src="Modal.jpeg" alt="modal" /> <br/>
+
+<img width="80%" align="center" src="Model.jpeg" alt="model" /> <br/>
 
